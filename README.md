@@ -1,0 +1,2 @@
+# Ejabberd
+Xmpp chat server
